@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex w-full max-md:flex-col">
           <div className="flex flex-wrap items-center justify-center flex-1 gap-5 small-compact">
             <p className="font-semibold transition-colors duration-500 text-p1">
-              Developed by Ubaid Raza
+              Developed by Sahil Hasnain
             </p>
           </div>
           <div className="flex items-center justify-center sm:ml-auto">
